@@ -1,5 +1,7 @@
 # GB Studio .uge Migrator
 
+> Migrate GBStudio 3.2.1 and below created .uge files to be compatible with hUGETracker
+
 ## Available Scripts
 
 In the project directory, you can run:
