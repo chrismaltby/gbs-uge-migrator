@@ -11,6 +11,11 @@
   font-weight: bold;
 }
 
+.App strong {
+  color: #c92c61;
+  font-weight: bold;
+}
+
 .App header {
   padding: 20px;
 }
@@ -34,6 +39,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 .App__UploadBtn h2 {

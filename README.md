@@ -1,4 +1,4 @@
-# GB Studio UGE Migrator
+# GB Studio .uge Migrator
 
 ## Available Scripts
 

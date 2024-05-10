@@ -91,14 +91,14 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>GB Studio UGE Migrator</h1>
+        <h1>GB Studio .uge Migrator</h1>
         <p>
           GB Studio 3.2.1 and below had an issue where wave instrument lengths
           were being saved in a way that was incompatible with{" "}
           <a href="https://github.com/SuperDisk/hUGETracker">hUGETracker</a>.
-          From 3.3.0 onwards this issue has been fixed but UGE files created
-          with older GB Studio versions may not sound correct if you have set
-          length values on your wave instruments.
+          From 3.3.0 onwards this issue has been fixed but <strong>.uge</strong>{" "}
+          files created with older GB Studio versions may not sound correct if
+          you have set length values on your wave instruments.
         </p>
         <p>
           This tool fixes your old GB Studio .uge files so they are ready for
@@ -107,7 +107,7 @@ function App() {
       </header>
       <div className="App__Columns">
         <div className="App__UploadBtn">
-          <h2>Drop .UGE files here.</h2>
+          <h2>Drop .uge files here.</h2>
           <input
             type="file"
             multiple

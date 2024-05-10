@@ -1,6 +1,6 @@
 {
-  "short_name": "GB Studio UGE Migrator",
-  "name": "GB Studio UGE Migrator",
+  "short_name": "GB Studio .uge Migrator",
+  "name": "GB Studio .uge Migrator",
   "icons": [
     {
       "src": "favicon.ico",
