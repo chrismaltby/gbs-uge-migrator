@@ -96,13 +96,13 @@ function App() {
           GB Studio 3.2.1 and below had an issue where wave instrument lengths
           were being saved in a way that was incompatible with{" "}
           <a href="https://github.com/SuperDisk/hUGETracker">hUGETracker</a>.
-          From 3.3.0 onwards this issue has been fixed but <strong>.uge</strong>{" "}
+          From 4.0.0 onwards this issue has been fixed but <strong>.uge</strong>{" "}
           files created with older GB Studio versions may not sound correct if
           you have set length values on your wave instruments.
         </p>
         <p>
           This tool fixes your old GB Studio .uge files so they are ready for
-          3.3.0 and above.
+          4.0.0 and above.
         </p>
       </header>
       <div className="App__Columns">
